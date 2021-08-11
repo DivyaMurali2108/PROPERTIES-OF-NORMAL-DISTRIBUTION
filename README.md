@@ -1,1 +1,1 @@
-# PROPERTIES-OF-NORMAL-DISTRIBUTION
+Normal Distribution
